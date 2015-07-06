@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>c:\publish\Cyryx Self Study\|c:\publish\CyryxSelfStudy\|/publish/|\publish\|ftp://meetmeinmaldives.com/mainwebsite_html/</PublishUrlHistory>
+    <InstallUrlHistory>\\server\myapplication\|http://www.meetmeinmaldives.com/CyryxSelfStudy.html/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ApplicationRevision>29</ApplicationRevision>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
